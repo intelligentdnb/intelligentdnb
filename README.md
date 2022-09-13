@@ -7,7 +7,7 @@
 <br/>
 
 ## Technologies  
-<table><tr><td valign="top" width="33%" style="background-color:#00d4ff">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -26,7 +26,7 @@
 
 
 ### Back-End  
-<div align="center" style="background-color:#00d4ff">  
+<div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/8UPTT7a8BOS6r5O7X3sCLgW4R3Gg7B4yUZ5O9hnR2FU/rs:fit:284:284:1/g:ce/aHR0cHM6Ly93d3cu/bWVtZW50b3RlY2gu/aW4vYXNzZXRzL2lt/YWdlcy9pY29ucy9l/eHByZXNzLnBuZw" alt="Express.js" height="50" /></a>  
