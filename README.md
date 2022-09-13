@@ -46,6 +46,7 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/8UPTT7a8BOS6r5O7X3sCLgW4R3Gg7B4yUZ5O9hnR2FU/rs:fit:284:284:1/g:ce/aHR0cHM6Ly93d3cu/bWVtZW50b3RlY2gu/aW4vYXNzZXRzL2lt/YWdlcy9pY29ucy9l/eHByZXNzLnBuZw" alt="Express.js" height="50" /></a>  
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/> </a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/bJODbPXzpWHw-CA4L6pV_Q1VpmkvYtzsVzkfNflqrS4/rs:fit:956:980:1/g:ce/aHR0cHM6Ly93ZWJz/dG9ja3Jldmlldy5u/ZXQvaW1hZ2VzL2dp/dGh1Yi1pY29uLXBu/Zy00LnBuZw" alt="Git" height="50" /></a>
  <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/LHVuHkpeb0-ENzrpy4moqAM60ia0cXtzI_onhl8jeck/rs:fit:250:250:1/g:ce/aHR0cDovL2Jsb2cu/ZXNwb2wuZWR1LmVj/L3Rhd3MvZmlsZXMv/MjAxNS8xMS9sb2dv/LXNtYWxsLnBuZw" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -60,6 +61,12 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 ## Github Stats
 <div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="intelligentdnb" /></p>
+
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intelligentdnb&show_icons=true&theme=dark&locale=en&layout=compact" alt="intelligentdnb" /></p>
 
 <br/>
 
