@@ -10,7 +10,7 @@
 <p> I am a person with a decisive positive attitude, which makes me self-taught with a
 self-confidence and self-motivation. I manage stress and emotions with the Power of Now. I have a pro-activity that makes me an eternal student of the IT world. Skilled communicator, both in small spaces and in public. Dedication, adaptability, versatility, responsibility and sociability. </p>
 <br/>
-<p>I specialize in Front-End, where I use React/React Native, Redux/Redux ToolKit, and design with React StyledComponents, CSS, and Photoshop.
+<p>I specialize in Front-End, where I use React/React Native, Redux, and design with React StyledComponents, CSS, and Photoshop.
 At the same time, to be able to develop as Full-Stack, I have Back-End knowledge where I work with Node.js, Expess.js, Sequelize, PostgresSQL.</p>
 <br/>
 
