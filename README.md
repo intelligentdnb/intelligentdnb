@@ -77,7 +77,8 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 </a>  
   <p>📧<b>juandiarts@gmail.com</b></p>
 </div>  
-
+<br/>
+<p align="center"><img src="https://profile-counter.glitch.me/{intelligentdnb}/count.svg" alt="intelligentdnb :: Hi visitors!" /></p>
 <!--
 **intelligentdnb/intelligentdnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --
