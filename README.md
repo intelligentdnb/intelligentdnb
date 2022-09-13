@@ -7,7 +7,7 @@
 <br/>
 
 ## Technologies  
-<table><tr><td valign="top" width="33%"  background-color:"#00d4ff">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -19,6 +19,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/6_IAwgbmW9g-eOnYSNWeuYHJNnf9qHj0UuTF9aZcCHA/rs:fit:300:293:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnRp/ZW5kYS5jYXBhY2l0/YWNpb25rZHNhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wNC8xMjAwcHgt/QWRvYmVfUGhvdG9z/aG9wX0NDX2ljb24u/c3ZnXy5wbmc_cmVz/aXplPTMwMCUyQzI5/MyZzc2w9MQ" alt="Photoshop" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
