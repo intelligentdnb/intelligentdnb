@@ -15,7 +15,7 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 <br/>
 
 
-**My primary goal is to improve in all my skills and over time add others! **
+** My primary goal is to improve in all my skills and over time add others! ** 
 
 <br/>
 
