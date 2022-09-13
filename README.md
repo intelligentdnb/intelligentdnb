@@ -59,15 +59,15 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 
 
 ## Github Stats
-<div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<div align="center">
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="intelligentdnb" /></p>
 
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intelligentdnb&show_icons=true&theme=dark&locale=en&layout=compact" alt="intelligentdnb" /></p>
-
+</div>
 <br/>
 
 
@@ -84,6 +84,8 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 **intelligentdnb/intelligentdnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --
 Here are some ideas to get you started:
+
+<div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
