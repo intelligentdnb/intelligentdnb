@@ -14,9 +14,10 @@ self-confidence and self-motivation. I manage stress and emotions with the Power
 At the same time, to be able to develop as Full-Stack, I have Back-End knowledge where I work with Node.js, Expess.js, Sequelize, PostgresSQL.</p>
 <br/>
 
-
+<div align="center">
 <b> My primary goal is to improve in all my skills and over time add others! </b>
-
+</div>
+  
 <br/>
 
 ## Technologies  
