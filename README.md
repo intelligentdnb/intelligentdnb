@@ -15,7 +15,7 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 <br/>
 <p>👨‍💻 Learning about React Native</p>
 <div align="center">
-<b> My primary goal is to improve in all my skills and over time add others! </b>
+<b> My main goal is to improve in all my skills and eventually learn others! </b>
 </div>
   
 <br/>
