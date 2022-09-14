@@ -13,6 +13,8 @@ self-confidence and self-motivation. I manage stress and emotions with the Power
 <p>I specialize in Front-End, where I use React, Redux, and design with React StyledComponents, CSS, and Photoshop.
 At the same time, to be able to develop as Full-Stack, I have Back-End knowledge where I work with Node.js, Expess.js, Sequelize, PostgresSQL.</p>
 <br/>
+<p>🚀Projects on my repositories </p>
+<br/>
 <p>👨‍💻 Learning about React Native</p>
 <div align="center">
 <b> My main goal is to improve in all my skills and eventually learn others! </b>
