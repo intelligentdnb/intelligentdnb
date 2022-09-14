@@ -62,7 +62,7 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 <div align="center">
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="intelligentdnb" /></p>
-<div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&theme=highcontrast&title_color=cfd147&locale=encount_private=true&hide_border=true" align="center" /></div> 
+<div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=intelligentdnb&show_icons=true&theme=highcontrast&title_color=cfd147&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
