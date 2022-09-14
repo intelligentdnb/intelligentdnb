@@ -79,7 +79,6 @@ At the same time, to be able to develop as Full-Stack, I have Back-End knowledge
 </a>  
   <p>📧<b>juandiarts@gmail.com</b></p>
 </div>  
-<br/>
 <h3 align="center">Hi visitors!</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{intelligentdnb}/count.svg" alt="intelligentdnb :: Visitors!" /></p>
 <!--
