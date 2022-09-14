@@ -1,7 +1,7 @@
 ## Hi www🌎! Im Juan Diego Mas 
 
 <p align="center">
-  <img height="200" src="./image/coverImage.png"/>
+  <img height="200" src="./image/coverImageName.png"/>
 </p>
 
 <br/>
