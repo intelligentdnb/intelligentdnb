@@ -1,4 +1,4 @@
-## Hi www🌎! Im Juan Diego Mas 
+## Juan Diego Mas 
 
 <p align="center">
   <img height="200" src="./image/coverImageName.png"/>
