@@ -1,8 +1,4 @@
-## Juan Diego Mas 
 
-<p align="center">
-  <img height="200" src="./image/coverImageName.png"/>
-</p>
 
 
 <br/>
