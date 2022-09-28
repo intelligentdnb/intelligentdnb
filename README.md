@@ -64,8 +64,7 @@
 </a>  
   <p>📧<b>juandiarts@gmail.com</b></p>
 </div>  
-<h3 align="center">Hi visitors!</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{intelligentdnb}/count.svg" alt="intelligentdnb :: Visitors!" /></p>
+
 <!--
 **intelligentdnb/intelligentdnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --
