@@ -14,7 +14,7 @@
 
 ### Front-End  
 
-<div align="center">   JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML </div>
+<div align="center">   JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML, Figma, Photoshop </div>
 
 </td><td valign="top" width="33%">
 
@@ -22,7 +22,7 @@
 
 ### Back-End  
   
-  <div align="center">   JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML </div>
+  <div align="center">NodeJS, Express, Git, Sequelize, PostgreSQL, GraphQL, Firebase, AWS</div>
   
 </td></table>
 </div>
