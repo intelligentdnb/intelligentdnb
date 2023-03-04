@@ -21,15 +21,9 @@
 
 
 ### Back-End  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/8UPTT7a8BOS6r5O7X3sCLgW4R3Gg7B4yUZ5O9hnR2FU/rs:fit:284:284:1/g:ce/aHR0cHM6Ly93d3cu/bWVtZW50b3RlY2gu/aW4vYXNzZXRzL2lt/YWdlcy9pY29ucy9l/eHByZXNzLnBuZw" alt="Express.js" height="50" /></a>  
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/> </a>
- <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/LHVuHkpeb0-ENzrpy4moqAM60ia0cXtzI_onhl8jeck/rs:fit:250:250:1/g:ce/aHR0cDovL2Jsb2cu/ZXNwb2wuZWR1LmVj/L3Rhd3MvZmlsZXMv/MjAxNS8xMS9sb2dv/LXNtYWxsLnBuZw" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+  
+  <div align="center">   JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML </div>
+  
 </td></table>
 </div>
   
