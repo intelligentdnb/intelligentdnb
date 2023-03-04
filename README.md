@@ -14,7 +14,7 @@
 
 ### Front-End  
 
-  JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML
+<div align="center">   JavaScript, TypeScript, React, Nextjs, Redux, Recoil, CSS and frames, HTML </div>
 
 </td><td valign="top" width="33%">
 
